@@ -1,12 +1,3 @@
-# ------------------------------------------------------------
-# PyOpenGL + GLUT Example
-# Demonstrates:
-# 1️⃣ Single Line
-# 2️⃣ Multiple Lines
-# 3️⃣ Square
-# 4️⃣ Rectangle
-# ------------------------------------------------------------
-
 from OpenGL.GL import *       # Core OpenGL functions (glBegin, glVertex, glClear, etc.)
 from OpenGL.GLU import *      # Utility library (gluOrtho2D)
 from OpenGL.GLUT import *     # GLUT functions (window creation, event handling)
